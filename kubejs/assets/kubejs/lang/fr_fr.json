@@ -108,7 +108,14 @@
 	"atm9.quest.allthemodium.axe": "Hache en alliage",
 	"atm9.quest.allthemodium.shovel": "Pelle en alliage",
 	"atm9.quest.allthemodium.paxel": "Paxel en alliage",
-	
+	"atm9.quest.allthemodium.dust": "Soul Sand Dust et Apatite Dust",
+	"atm9.quest.allthemodium.infinite_atm": "Allthemodium Infini",
+	"atm9.quest.allthemodium.atm_seeds": "Graines de Allthemodium",
+	"atm9.quest.allthemodium.element_essence": "Essences Élementales",
+	"atm9.quest.allthemodium.infinite_unob": "Unobtainium Infini",
+
+
+
 	"atm9.quest.allthemodium.desc.intro1": "&dAllthemodium&r est le mod central dans tous les modpacks Allthemods. Ce mod ajoute des minerais de fin de partie dans le monde, amplifiant ainsi votre expérience moddée.",
 	"atm9.quest.allthemodium.desc.intro2": "Vous pouvez trouver plus d'informations sur le mod dans le livre &9Allthemodium&r.",
 	"atm9.quest.allthemodium.desc.atm_ore1": "Ce minerai lucratif marque le début de votre parcours vers la surpuissance!",
@@ -121,7 +128,7 @@
 	"atm9.quest.allthemodium.desc.atm_smith": "Cela peut être trouvé en &2brossant&r de l'&aArgile Suspecte&r dans la &dCité Antique&r.",
 	"atm9.quest.allthemodium.desc.vib_smith": "Cela peut être trouvé en &2brossant&r du &aSable d'Âme Suspect&r dans les &dBastions&r du &cNether&r.",
 	"atm9.quest.allthemodium.desc.unob_smith": "Cet objet peut être trouvé en tant que butin à l'intérieur des bibliothèques des &aDonjons&r de l'Autre-Monde.",
-	"atm9.quest.allthemodium.desc.atm_tools": "Note: Bien que le &aModèle d'amélioration&r ne soit pas nécessaire pour créer l'outil initial, il vous fera économiser beaucoup d'&6lingots d'Allthemodium&r!",
+	"atm9.quest.allthemodium.desc.atm_tools": "Note: Bien que le &aModèle d'amélioration&r ne soit pas nécessaire pour créer l'outil initial, il vous fera économiser beaucoup de &6lingots d'Allthemodium&r!",
 	"atm9.quest.allthemodium.desc.teleport1": "Le Téléporteur est utilisé pour se téléporter vers les 3 nouvelles dimensions ajoutées par le pack ATM.",
 	"atm9.quest.allthemodium.desc.teleport2": "Vous pouvez l'utiliser pour accéder à la &aDimension minière&r en le plaçant dans l'Overworld, puis en faisant un clic droit tout en maintenant la touche Maj/Shift enfoncée avec une main vide.",
 	"atm9.quest.allthemodium.desc.teleport3": "Pour accéder à l'&cAutre-Monde&r, faites la même chose mais dans le Nether.",
@@ -135,8 +142,54 @@
 	"atm9.quest.allthemodium.desc.beyond2": "De manière similaire à l'Overworld->Nether, il existe un ratio de blocs de 1:50 pour l'End->l'Au-Delà.",
 	"atm9.quest.allthemodium.desc.furnace": "Les &6Métaux Allthemodium&r peuvent être utilisés pour fabriquer des fours extrêmement rapides!",
 	"atm9.quest.allthemodium.desc.bees": "Besoin de plus de &6Métaux ATM&r ? Élevez des abeilles!",
+	"atm9.quest.allthemodium.desc.atm": "Félicitations, cependant, 3 ne suffiront pas...",
+	"atm9.quest.allthemodium.desc.arcane": "Il vous faudra de l'Arcane Crystal pour &6Allthemodium&r, et elle est rare. Tamisez-en une bonne quantité (mesh en fer/diamant).",
+	"atm9.quest.allthemodium.desc.Mundabitur": "La Mundabitur Dust peut être fastidieuse à fabriquer, vous pouvez donc l'obtenir en pillant les coffres des Cités de l'End..",
+	"atm9.quest.allthemodium.desc.soulinfused": "Fabriquez d'abord de la Soul Infused dust, puis faites-la fondre.",
+	"atm9.quest.allthemodium.desc.pulv": "Le Pulvérisateur sera votre première étape pour fabriquer un Soul Infused Ingot nécessaire pour &6Allthemodium&r. Pulvérisez de l'Apatite pour obtenir de l'Apatite Dust, puis pulvérisez du Sable des Âmes pour obtenir de la Soul Sand Dust !",
+	"atm9.quest.allthemodium.desc.Powah": "Le cristal Nitro est l'élément le plus difficile à obtenir pour fabriquer &6Allthemodium&r. Vous devez progresser dans le mod &9Powah&r pour y parvenir.\n\nRemarque : C'est en utilisant Powah que vous fabriquez les lingots de &6Allthemodium&r.",
+	"atm9.quest.allthemodium.desc.fluxinfusedingot": "Fondez la poudre d’Électrum fluxé.",
+	"atm9.quest.allthemodium.desc.fluxinfused": "Fabriquez ensemble de la Gold Dust et de la Poudre de redstone.",
+	"atm9.quest.allthemodium.desc.osmiumcompress": "Combiner de l'osmium et de la pierre lumineuse dans un compresseur d'osmium permet d'obtenir un Lingot de pierre lumineuse raffinée.",
+	"atm9.quest.allthemodium.desc.alloysmelt": "Un simple four d'alliage.\nCombinez de l'or, de la Poudre redstone et de la Poudre lumineuse pour obtenir votre Lingot d'alliage énergétique.",
+	"atm9.quest.allthemodium.desc.infinite_atm": "Le &6Allthemodium&r Block vous permet de devenir une source infinie de &6Allthemodium&r",
+	"atm9.quest.allthemodium.desc.atm_bee": "Besoin de plus de &6Allthemodium&r ? Fabriquez des abeilles !\n\nEncore mieux que le Ore Laser Base avec des améliorations Omega (A condition d'avoir beaucoup d'abeilles)",
+	"atm9.quest.allthemodium.desc.laserbase": "Le Ore Laser Base est incroyablement facile à utiliser et constitue une excellente source de &6Allthemodium&r.Placez une base et fixez les drills sur les côtés (orientés vers le bas). Insérez ensuite un &6Allthemodium Block&r dans l'emplacement gauche de la Laser Base et alimentez le tout.",
+	"atm9.quest.allthemodium.desc.atm_seeds": "La production de &6Allthemodium&r peut être automatisée grâce à des graines.Celles-ci produiront de l'&6Essence de Allthemodium&r, qui pourra ensuite être transformée en &6Allthemodium Nuggets&r.Avec la bonne configuration, la production est extrêmement rapide. ",
+	"atm9.quest.allthemodium.desc.atm_armor": "L'armure en &6Allthemodium&r est BIEN meilleure que celle en Netherite !",
+	"atm9.quest.allthemodium.desc.atm_carrot": "C'est bien meilleur qu'une carotte dorée !",
+	"atm9.quest.allthemodium.desc.atm_apple": "Qui a besoin de pommes d'or enchantées maintenant ?",
+	"atm9.quest.allthemodium.desc.using_atm": "En plus d'être nécessaire pour le &3Vibranium&r, le &6Allthemodium&r peut également être utilisé pour fabriquer d'autres objets utiles.",
+	"atm9.quest.allthemodium.desc.bucketoflife": "Plongez vous dans &4&lBlood Magic&r&r pour créer ceci.",
+	"atm9.quest.allthemodium.desc.ars": "Plongez vous dans &dArs Nouveau&r pour créer ceci.",
+	"atm9.quest.allthemodium.desc.insanium":"Plongez vous dans &aMystical Agriculture&r pour créer ceci",
+	"atm9.quest.allthemodium.desc.vib": "Félicitations ! Cependant, 3 ne suffiront toujours pas.",
+	"atm9.quest.allthemodium.desc.infinite_vib":"Même principe qu'avec le &6Allthemodium Block&r, utilisez-le pour créer une source infinie de &3Vibranium&r. On peut obtenir le même résultat avec une Laser Drill, mais en utilisant un &3Vibranium Block&r à la place.",
+	"atm9.quest.allthemodium.desc.vib_bee": "Besoin de plus de &3Vibranium&r ? Fabriquez des abeilles !\n\nEncore mieux que le Ore Laser Base avec des améliorations Omega (A condition d'avoir beaucoup d'abeilles)",
+	"atm9.quest.allthemodium.desc.vib_seeds":"La production de &3Vibranium&r peut être automatisée grâce à des graines. Celles-ci produisent de l'&3Essence de Vibranium&r qui peut ensuite être transformée en &3Vibranium Nuggets&r. Avec la bonne configuration, la production est extrêmement rapide",
+	"atm9.quest.allthemodium.desc.using_vib":"Le &3Vibranium&r peut également être utilisé pour fabriquer des objets très importants.",
+	"atm9.quest.allthemodium.desc.vib_furnace":"Le &3Vibranium Furnace&r est encore plus rapide que le &6Allthemodium Furnace&r!",
+	"atm9.quest.allthemodium.desc.vib_armor": "L'armure en &3Vibranium&r est bien plus puissante que celle en &6Allthemodium&r!",
+	"atm9.quest.allthemodium.desc.vib_tools": "Ce sont les mêmes qu'en &6Allthemodium&r, mais ils extraient encore plus rapidement.",
+	"atm9.quest.allthemodium.desc.unob":"Le &5Unobtainium Ore&r se trouve rarement dans le biome des Hautes Terres de l'End.",
+	"atm9.quest.allthemodium.desc.infinite_unob": "Même principe qu'avec le &6Allthemodium Block&r, utilisez-le pour créer une source infinie d'&5Unobtainium&r. On peut le fabriquer de la même manière avec une Laser Drill mais en utilisant un &5Unobtainium Block&r à la place.",
+	"atm9.quest.allthemodium.desc.unob_seeds":"La production d'&5Unobtainium&r peut être automatisée grâce à des graines. Celles-ci produisent de l'&5Essence de Unobtainium&r, qui peut ensuite être transformée en &5Unobtainium Nuggets&r. Avec la bonne configuration, la production est extrêmement rapide.",
+	"atm9.quest.allthemodium.desc.unob_bee":"Besoin de plus d'&5Unobtainium&r ? Fabriquez des abeilles !\n\nEncore mieux que le Ore Laser Base avec des améliorations Omega (A condition d'avoir beaucoup d'abeilles)",
+	"atm9.quest.allthemodium.desc.using_unob":"L'&5Unobtainium&r peut également être utilisé pour fabriquer des objets très importants.",
+	"atm9.quest.allthemodium.desc.unob_furnace":"Le &5Unobtainium Furnace&r est encore plus rapide que le &3Vibranium Furnace&r!",
+	"atm9.quest.allthemodium.desc.unob_armor":"L'armure en &5Unobtainium&r est bien plus résistant que celle en &3Vibranium&r!",
+	"atm9.quest.allthemodium.desc.unob_tools":"Ce sont les mêmes que ceux en &3Vibranium&r mais minent encore plus vite!",
+
+
+
+
+
+
+
+	"atm9.quest.allthemodium.subt.flux-inf": "La chose la plus facile à faire ici",
 	
-	
+
+
 	"atm9.quest.bounty.board": "Le tableau des primes",
 	"atm9.quest.bounty.zombie": "&l&9Prime dans l'Overworld:&r&e Zombies",
 	"atm9.quest.bounty.skeleton": "&l&9Prime dans l'Overworld :&r&e Squelettes",
